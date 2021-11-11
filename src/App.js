@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import AppLogo from './components/AppLogo';
 import Body from './components/Body';
-import DocumentationLink from './components/DocumentationLink';
+import DocumentationLink from './components/DocumentationLink.js';
 
 function App() {
   return (
